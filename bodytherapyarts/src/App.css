@@ -261,6 +261,11 @@ button.sub-menu-toggle:before {
 /*Bottom Bar Footer*/
 .site-footer {
   background: #cc007a;
+  text-align: center;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  -webkit-text-stroke: 0.15px black;
+    padding: 2%;
 }
 
 .site-footer p,

@@ -15,7 +15,7 @@ const Header = () => {
             <img
               src={btalogo}
               className="title-area"
-              alt="Body Therapy Arts l"
+              alt="Body Therapy Arts"
             />
           </NavbarBrand>
         </Container>
